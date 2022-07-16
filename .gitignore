@@ -1,0 +1,4 @@
+#PyCharm files
+src/.idea
+src/__pycache__
+src/venv
