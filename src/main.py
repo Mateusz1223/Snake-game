@@ -1,9 +1,8 @@
 import arcade
-from game import Game
+from app import App
 
 def main():
-    """Main function"""
-    window = Game()
+    window = App()
     window.setup()
     arcade.run()
 
